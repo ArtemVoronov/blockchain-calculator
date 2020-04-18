@@ -1,3 +1,7 @@
+# blockchain-calculator
+
+Current smart contract is here: https://ropsten.etherscan.io/address/0x57034b120d342bc91db3e1bede7432b00103b2d0
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
