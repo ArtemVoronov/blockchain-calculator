@@ -1,0 +1,16 @@
+.wrapper {
+  display: flex;
+  min-height: 95vh;
+  flex-direction: column;
+  align-items: center;
+}
+
+.calculatorPanel {
+  display: flex;
+  align-items: center;
+}
+
+.operationButtons {
+  display: flex;
+  flex-direction: column;
+}
