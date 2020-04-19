@@ -4,7 +4,7 @@ It's just a simple prototype of calculator that uses smart contract on Ethereum 
 
 Smart contract is here: https://ropsten.etherscan.io/address/0x57034b120d342bc91db3e1bede7432b00103b2d0
 
-#How to use it:
+# How to use it:
 1. Run the following commands in a terminal:
 ```
 git clone git@github.com:ArtemVoronov/blockchain-calculator.git
