@@ -10,7 +10,7 @@
     "node-rest-client-promise": "^3.1.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1",
+    "react-scripts": "5.0.1",
     "web3": "^1.2.6"
   },
   "scripts": {
@@ -44,6 +44,6 @@
     "style-loader": "^1.1.4",
     "webpack": "^4.42.1",
     "webpack-cli": "^3.3.11",
-    "webpack-dev-server": "^3.10.3"
+    "webpack-dev-server": "^5.2.2"
   }
 }
